@@ -34,6 +34,7 @@
 - [🧯 Common Setup Errors & Fixes](#-common-setup-errors--fixes)
 - [🚢 Deployment](#-deployment)
 - [🤝 Contributing](#-contributing)
+- [Code of Conduct](#️-code-of-conduct)
 - [📄 License](#-license)
 
 ---
@@ -747,6 +748,12 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+## Code of Conduct
+
+We are committed to fostering a welcoming and safe environment for everyone. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standards we expect from our community members.
 
 ---
 
